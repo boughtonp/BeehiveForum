@@ -16,13 +16,18 @@ Note: The official readme is at docs/readme.txt
 CHANGES
 =======
 
-Beehive is already awesome, but there are a number of changes that would make it even better.
+Beehive is already awesome, but there are a number of changes that would make 
+it even better.
 
-Primarily, REST support - being able to access and interact with the forum via a REST API - will open up a whole variety of possibilities for further improvement and integration with other software.
+Primarily, REST support - being able to access and interact with the forum via 
+a REST API - will open up a whole variety of possibilities for further 
+improvement and integration with other software.
 
-However, there are a number of other assorted tweaks and improvements that may be made alongside this.
+However, there are a number of other assorted tweaks and improvements that may 
+be made alongside this.
 
-Development will be done following the [nvie git branching model](http://nvie.com/posts/a-successful-git-branching-model/), with each feature branch being related to an issue in [GitHub's issue tracker](https://github.com/boughtonp/BeehiveForum/issues).
+Development will be done following the [nvie git branching model](http://nvie.com/posts/a-successful-git-branching-model/),
+with each feature branch being related to an issue in [GitHub's issue tracker](https://github.com/boughtonp/BeehiveForum/issues).
 
 
 
